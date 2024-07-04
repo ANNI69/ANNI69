@@ -13,15 +13,6 @@
   </a>
 </p>
 
-## 🚀 Most Used Languages
-
-<p align="center">
-  <!-- Most Used Languages Card -->
-  <a href="https://github.com/ANNI69">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANNI69&hide_progress=true&theme=radical&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-
 ## ⏱ Weekly Coding Time
 
 <p align="center">
