@@ -12,16 +12,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ANNI69&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
   </a>
 </p>
-
-## ⏱ Weekly Coding Time
-
-<p align="center">
-  <!-- WakaTime Stats Card -->
-  <a href="https://wakatime.com/@ffflabs">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical" alt="Harlok's WakaTime Stats" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
