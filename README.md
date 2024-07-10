@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
 <p align="center">
-  I'm Anurag, a passionate developer. Welcome to my GitHub profile! Here, you'll find some of my projects, contributions, and more.
+  I'm Aniruddh, a passionate developer. Welcome to my GitHub profile! Here, you'll find some of my projects, contributions, and more.
 </p>
 
 ## 📊 GitHub Stats
