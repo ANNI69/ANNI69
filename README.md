@@ -42,11 +42,14 @@ I'm a passionate **Full Stack Developer** currently pursuing my **B.E. in Inform
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![FastAPI](https://skillicons.dev/icons?i=tensorflow)
+
+
 
 ### 🛢️ Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postgre](https://skillicons.dev/icons?i=postgre)
+![Postgre](https://skillicons.dev/icons?i=postgres)
 
 
 ### ☁️ Cloud & DevOps
