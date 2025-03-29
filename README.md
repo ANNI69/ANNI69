@@ -3,6 +3,27 @@
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** currently pursuing my **B.E. in Information Technology** from **DMCE**. I started my journey with a diploma in IT from **Vidyalankar Polytechnic** and have built numerous projects along the way. Always excited about learning new technologies and solving real-world problems!
 
+![Java](https://skillicons.dev/icons?i=java)
+![Java](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=cpp)
+![Spring](https://skillicons.dev/icons?i=spring)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Kali Linux](https://skillicons.dev/icons?i=kali)
+![GoLang](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+
+
 ## 🔭 What I'm Working On
 - 🌱 Exploring **AI, Computer Vision, and Cloud Technologies**
 - 🏆 Building innovative solutions for **Smart India Hackathon & other hackathons**
