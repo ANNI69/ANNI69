@@ -1,25 +1,47 @@
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+# Hi there! 👋 I'm aniruddh
 
-<p align="center">
-  I'm Aniruddh, a passionate developer. Welcome to my GitHub profile! Here, you'll find some of my projects, contributions, and more.
-</p>
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** currently pursuing my **B.E. in Information Technology** from **DMCE**. I started my journey with a diploma in IT from **Vidyalankar Polytechnic** and have built numerous projects along the way. Always excited about learning new technologies and solving real-world problems!
 
-## 📊 GitHub Stats
+## 🔭 What I'm Working On
+- 🌱 Exploring **AI, Computer Vision, and Cloud Technologies**
+- 🏆 Building innovative solutions for **Smart India Hackathon & other hackathons**
+- 🚀 Working on **MERN & Next.js projects** with dynamic rendering and authentication
+- 🎯 Researching **Chrome Extensions & Flutter Apps**
+- 💡 Planning to start a **product-based startup** during college
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/ANNI69">
-    <img src="https://github-readme-stats.vercel.app/api?username=ANNI69&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+### 💻 Languages & Frameworks
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+### 🛢️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgre](https://skillicons.dev/icons?i=postgre)
+
+
+### ☁️ Cloud & DevOps
+![Cloudinary](https://skillicons.dev/icons?i=cloudinary)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](https://your-portfolio.com)
+
 ---
+💡 *Always open to collaboration and exciting opportunities!*
 
-<p align="center">
-  Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-</p>
-
-<p align="center">
-  <!-- Optional: Add your social media links -->
-  <!-- Example: -->
-  <!-- <a href="Your LinkedIn URL"><img src="icon link" /></a> -->
-</p>
