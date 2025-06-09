@@ -42,7 +42,7 @@ I'm a passionate **Full Stack Developer** currently pursuing my **B.E. in Inform
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![FastAPI](https://skillicons.dev/icons?i=tensorflow)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 
 
 
@@ -53,9 +53,15 @@ I'm a passionate **Full Stack Developer** currently pursuing my **B.E. in Inform
 
 
 ### ☁️ Cloud & DevOps
-![Cloudinary](https://skillicons.dev/icons?i=cloudinary)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+
+
+###  🎓 Certifications
+<a href="https://drive.google.com/file/d/1w6GHUoZVV3-AGn8d6Q1MpfkbQ3PSWRvY/view?usp=sharing"><img src="https://i.ibb.co/pjjQCWJR/aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="aws-academy-graduate-aws-academy-machine-learning-foundations" border="0" height="150" width="150"></a>
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANNI69&show_icons=true&theme=radical)
