@@ -68,6 +68,7 @@ I'm a passionate **Full Stack Developer** currently pursuing my **B.E. in Inform
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANNI69&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
+[![Email](codebyanii@gmail.com)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aniruddh-nagare-698787208/))
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/AniruddhNagare)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](https://nagareaniruddh.vercel.app/)
